@@ -19,6 +19,7 @@ Some technologies that I love:
 - Kubernetes
 - Python
 - Linux 🐧
+- Open Source Hardware & Microcontrollers
 
 ##### Does that mean that I am an good on those things? Next question.
 
